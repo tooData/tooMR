@@ -11,6 +11,11 @@
 * 3 - Vérifier que tout s'execute bien et que les print demandés s'affichent bien
 * 4 - Faire une pip freeze > requirements.txt pour que l'on puisse installer les librairies que vous utilisez
 
+### Je vous conseille de bien lire l'ensemble des fichiers que vous avez à modifier avant de commencer à coder.
+### Le plus important est que l'execution affiche les informations demandées dans search_and_eval.py
+
+
+
 ## Pour soumettre 
 * PAS DE COMMIT/PUSH
 * Zippez votre projet et envoyez le par mail.
