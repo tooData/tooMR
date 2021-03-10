@@ -1,7 +1,10 @@
 # Evaluation sur un jeu de données de moteur de recherche
 
+Le jeu de données test vient de la conférence CACM. Il s'agit d'un corpus de document constitué de titres d'articles de recherches, de requêtes, et des meilleurs résultats (liste des articles ordonnés par pertinence) attendus pour chaque requête. 
+Les concepts abordés sont les dataFrame, les dictionnaires, les listes, les index inversés, la recherche booléenne et les métriques usuelles de Data Science (Précision/Rappel/AP/MAP).
+
 ## Ne pas utiliser scikit ou de librairies non standards. 
-## Utilisez numpy et pandas.
+## Utilisez PYTHON 3.X, numpy et pandas.
 
 ## Enoncé :
 
@@ -27,3 +30,5 @@
 * Précision@k = nombre de documents pertinents retournés dans les k premiers / k
 * Average precision: Pour une requête, pour i=1 à N(nombre de documents pertinents pour la requête), moyenne des précisions@1, précisions@2....précisions@N
 * Mean average precision: Moyenne de toutes les Average précision pour toutes les requête.
+
+Bonne chance.
