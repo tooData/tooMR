@@ -12,7 +12,7 @@
 * 4 - Faire une pip freeze > requirements.txt pour que l'on puisse installer les librairies que vous utilisez
 
 ### Je vous conseille de bien lire l'ensemble des fichiers que vous avez à modifier avant de commencer à coder.
-### Le plus important est que l'execution affiche les informations demandées dans search_and_eval.py
+### Le plus important est que l'execution affiche les informations demandées dans les print de search_and_eval.py
 
 
 
